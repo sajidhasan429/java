@@ -9,4 +9,4 @@ Enter an operator(+, - , *, /) :
 +
 Enter second number :
 10
-Result : 3
+Result : 30.0

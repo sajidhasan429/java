@@ -1,0 +1,22 @@
+Output
+
+Enter the Name
+Sajidhasan
+Enter ID
+101
+Enter Marks of English
+60
+Enter Marks of Physics
+65
+Enter Marks of Maths
+80
+Enter Marks of Science
+72
+Enter Marks of Biology
+55
+****ALL Details *******
+ID is 101
+Student Name is Sajidhasan
+Total marks of all subjects 332
+Percentage is 66.4
+Grade is B

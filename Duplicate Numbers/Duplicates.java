@@ -1,3 +1,7 @@
+// Nodoliya Sajidhasan Shabbirali
+// URN :- 2022-M-18042000
+// MCA Second Year
+
 public class Duplicates {
     public static void main(String[] args) {
 	// Initialize the array

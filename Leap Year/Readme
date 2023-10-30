@@ -1,0 +1,10 @@
+#outputs
+
+# not leap year
+Enter a year: 2019
+2019 is not a leap year.
+
+#leap year
+Enter a year: 2020
+2020 is a leap year.
+

@@ -7,7 +7,7 @@ public class LeapYear {
         // Prompt the user to enter a year
         System.out.print("Enter a year: ");
         int year = scanner.nextInt();
-        scanner.close();
+        
 
         // Check if the year is a leap year
         boolean isLeapYear = false;
@@ -26,5 +26,7 @@ public class LeapYear {
         } else {
             System.out.println(year + " is not a leap year.");
         }
+
+        scanner.close();
     }
 }
